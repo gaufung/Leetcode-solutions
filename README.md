@@ -1,2 +1,9 @@
 # Leetcode-solutions
-leetcode-solution
+
+[Leetcode](https://leetcodechina.com/problemset/algorithms/) algorithm problem set
+
+# Languages
+- DotNet
+- Python
+- Go
+
