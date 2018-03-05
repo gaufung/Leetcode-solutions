@@ -8,7 +8,7 @@ class Solution:
         dic = {}
         for idx, num in enumerate(nums):
             if num not in dic:
-                dic[num]=[];
+                dic[num]=[]
             dic[num].append(idx)
         for num in nums:
             left = target - num
