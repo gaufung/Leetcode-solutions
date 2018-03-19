@@ -26,3 +26,5 @@
 - 002AddTwoNumber
 - 003LongestSubstring
 - 005LongestPalindrome
+- 006ZigZag
+- 007Reverse
