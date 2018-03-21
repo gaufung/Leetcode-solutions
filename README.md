@@ -2,13 +2,17 @@
 
 [Leetcode](https://leetcodechina.com/problemset/algorithms/) algorithm or database problem set
 
-# Languages
-- DotNet
-- Python
-- Go
-- Sql
-
 # Table of Content
+
+## Algorithm
+- 001TwoSum
+- 002AddTwoNumber
+- 003LongestSubstring
+- 005LongestPalindrome
+- 006ZigZag
+- 007Reverse
+- 008Atoi
+- 009Palindrome
 
 ## Database
 - 175Merge
@@ -21,11 +25,4 @@
 - 620Cinema
 - 727SwapSalary
 
-## Algorithm
-- 001TwoSum
-- 002AddTwoNumber
-- 003LongestSubstring
-- 005LongestPalindrome
-- 006ZigZag
-- 007Reverse
-- 008Atoi
+
