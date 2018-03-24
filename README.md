@@ -14,6 +14,7 @@
 - 008Atoi
 - 009Palindrome
 - 011MaxWater
+- 014LongestStringPrefix
 
 ## Database
 - 175Merge
