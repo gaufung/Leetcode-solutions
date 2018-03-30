@@ -15,6 +15,7 @@
 - 009Palindrome
 - 011MaxWater
 - 014LongestStringPrefix
+- 018fourSum
 - 019RemoveNthFromEnd
 
 ## Database
