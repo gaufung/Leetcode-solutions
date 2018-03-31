@@ -17,6 +17,7 @@
 - 014LongestStringPrefix
 - 018fourSum
 - 019RemoveNthFromEnd
+- 020ValidParenthese
 
 ## Database
 - 175Merge
