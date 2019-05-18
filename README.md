@@ -28,7 +28,10 @@ Problem | Solution | Level
 [21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[golang](./Algorithm/21.合并两个有序链表.go)|Easy
 [22 括号生成](https://leetcode-cn.com/problems/generate-parentheses/description/)|[golang](./Algorithm/22.括号生成.go)|Medium
 [23 合并k个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/description/)|[golang](./Algorithm/23.合并k个排序链表.go)|Hard
+[24 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/)|[golang](./Algorithm/24.两两交换链表中的节点.go)|Medium
+[25 k个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/description/)|[golang](./Algorithm/25.k个一组翻转链表.go)|Hard
 [26 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|[golang](./Algorithm/26.删除排序数组中的重复项.go)|Easy
+[27 移除元素](https://leetcode-cn.com/problems/remove-element/description/)|[golang](./Algorithm/27.移除元素.go)|Easy
 [28 实现str-str](https://leetcode-cn.com/problems/implement-strstr/description/)|[golang](./Algorithm/28.实现str-str.go)|Easy
 [32 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/description/)|[golang](./Algorithm/32.最长有效括号.go)|Hard
 [33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)|[golang](./Algorithm/33.搜索旋转排序数组.go)|Medium
@@ -40,6 +43,7 @@ Problem | Solution | Level
 [41 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/description/)|[golang](./Algorithm/41.缺失的第一个正数.go)|Hard
 [42 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/description/)|[golang](./Algorithm/42.接雨水.go)|Hard
 [43 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/description/)|[golang](./Algorithm/43.字符串相乘.go)|Medium
+[45 跳跃游戏-ii](https://leetcode-cn.com/problems/jump-game-ii/description/)|[golang](./Algorithm/45.跳跃游戏-ii.go)|Hard
 [46 全排列](https://leetcode-cn.com/problems/permutations/description/)|[golang](./Algorithm/46.全排列.go)|Medium
 [47 全排列-ii](https://leetcode-cn.com/problems/permutations-ii/description/)|[golang](./Algorithm/47.全排列-ii.go)|Medium
 [48 旋转图像](https://leetcode-cn.com/problems/rotate-image/description/)|[golang](./Algorithm/48.旋转图像.go)|Medium
@@ -92,6 +96,7 @@ Problem | Solution | Level
 [113 路径总和-ii](https://leetcode-cn.com/problems/path-sum-ii/description/)|[golang](./Algorithm/113.路径总和-ii.go)|Medium
 [114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/description/)|[golang](./Algorithm/114.二叉树展开为链表.go)|Medium
 [115 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/description/)|[golang](./Algorithm/115.不同的子序列.go)|Hard
+[116 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/description/)|[python](./Algorithm/116.填充每个节点的下一个右侧节点指针.py)|Medium
 [118 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|[golang](./Algorithm/118.杨辉三角.go)|Easy
 [120 三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/)|[golang](./Algorithm/120.三角形最小路径和.go)|Medium
 [121 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)|[golang](./Algorithm/121.买卖股票的最佳时机.go)|Easy
