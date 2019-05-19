@@ -1,9 +1,8 @@
 
 # LeetCode Solution
 
-[Leetcode](https://leetcode-cn.com/problemset/all/) algorithm or database problem set
+[Leetcode](https://leetcode-cn.com/problemset/all/) algorithm or database problemset.
 
-# Algorithm
 
 Problem | Solution | Level
 :---|:---:|:--:
@@ -62,6 +61,7 @@ Problem | Solution | Level
 [63 不同路径-ii](https://leetcode-cn.com/problems/unique-paths-ii/description/)|[golang](./Algorithm/63.不同路径-ii.go)|Medium
 [64 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/description/)|[golang](./Algorithm/64.最小路径和.go)|Medium
 [66 加一](https://leetcode-cn.com/problems/plus-one/description/)|[golang](./Algorithm/66.加一.go)|Easy
+[67 二进制求和](https://leetcode-cn.com/problems/add-binary/description/)|[golang](./Algorithm/67.二进制求和.go)|Easy
 [69 x-的平方根](https://leetcode-cn.com/problems/sqrtx/description/)|[golang](./Algorithm/69.x-的平方根.go)|Easy
 [70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)|[golang](./Algorithm/70.爬楼梯.go)|Easy
 [71 简化路径](https://leetcode-cn.com/problems/simplify-path/description/)|[golang](./Algorithm/71.简化路径.go)|Medium
