@@ -134,6 +134,7 @@ Problem | Solution | Level
 [198 打家劫舍](https://leetcode-cn.com/problems/house-robber/description/)|[golang](./Algorithm/198.打家劫舍.go)|Easy
 [199 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/description/)|[golang](./Algorithm/199.二叉树的右视图.go)|Medium
 [202 快乐数](https://leetcode-cn.com/problems/happy-number/description/)|[golang](./Algorithm/202.快乐数.go)|Easy
+[204 计数质数](https://leetcode-cn.com/problems/count-primes/description/)|[golang](./Algorithm/204.计数质数.go)|Easy
 [206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/)|[golang](./Algorithm/206.反转链表.go)|Easy
 [207 课程表](https://leetcode-cn.com/problems/course-schedule/description/)|[golang](./Algorithm/207.课程表.go)|Medium
 [208 实现-trie-前缀树](https://leetcode-cn.com/problems/implement-trie-prefix-tree/description/)|[golang](./Algorithm/208.实现-trie-前缀树.go)|Medium
@@ -158,11 +159,13 @@ Problem | Solution | Level
 [242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)|[golang](./Algorithm/242.有效的字母异位词.go)|Easy
 [264 丑数-ii](https://leetcode-cn.com/problems/ugly-number-ii/description/)|[golang](./Algorithm/264.丑数-ii.go)|Medium
 [268 缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|[golang](./Algorithm/268.缺失数字.go)|Easy
+[278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/)|[python](./Algorithm/278.第一个错误的版本.py)|Easy
 [279 完全平方数](https://leetcode-cn.com/problems/perfect-squares/description/)|[golang](./Algorithm/279.完全平方数.go)|Medium
 [283 移动零](https://leetcode-cn.com/problems/move-zeroes/description/)|[golang](./Algorithm/283.移动零.go)|Easy
 [287 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|[golang](./Algorithm/287.寻找重复数.go)|Medium
 [289 生命游戏](https://leetcode-cn.com/problems/game-of-life/description/)|[golang](./Algorithm/289.生命游戏.go)|Medium
 [295 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/description/)|[golang](./Algorithm/295.数据流的中位数.go)|Hard
+[297 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/description/)|[python](./Algorithm/297.二叉树的序列化与反序列化.py)|Hard
 [300 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/description/)|[golang](./Algorithm/300.最长上升子序列.go)|Medium
 [301 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/description/)|[golang](./Algorithm/301.删除无效的括号.go)|Hard
 [303 区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)|[golang](./Algorithm/303.区域和检索-数组不可变.go)|Easy
@@ -171,6 +174,7 @@ Problem | Solution | Level
 [322 零钱兑换](https://leetcode-cn.com/problems/coin-change/description/)|[golang](./Algorithm/322.零钱兑换.go)|Medium
 [326 3-的幂](https://leetcode-cn.com/problems/power-of-three/description/)|[golang](./Algorithm/326.3-的幂.go)|Easy
 [328 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/description/)|[golang](./Algorithm/328.奇偶链表.go)|Medium
+[329 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/description/)|[golang](./Algorithm/329.矩阵中的最长递增路径.go)|Hard
 [334 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/description/)|[golang](./Algorithm/334.递增的三元子序列.go)|Medium
 [337 打家劫舍-iii](https://leetcode-cn.com/problems/house-robber-iii/description/)|[golang](./Algorithm/337.打家劫舍-iii.go)|Medium
 [338 比特位计数](https://leetcode-cn.com/problems/counting-bits/description/)|[golang](./Algorithm/338.比特位计数.go)|Medium
@@ -179,6 +183,7 @@ Problem | Solution | Level
 [347 前k个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)|[golang](./Algorithm/347.前k个高频元素.go)|Medium
 [350 两个数组的交集-ii](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/)|[golang](./Algorithm/350.两个数组的交集-ii.go)|Easy
 [354 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/description/)|[golang](./Algorithm/354.俄罗斯套娃信封问题.go)|Hard
+[357 计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/description/)|[golang](./Algorithm/357.计算各个位数不同的数字个数.go)|Medium
 [368 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[golang](./Algorithm/368.最大整除子集.go)|Medium
 [371 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/)|[golang](./Algorithm/371.两整数之和.go)|Easy
 [375 猜数字大小-ii](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/description/)|[golang](./Algorithm/375.猜数字大小-ii.go)|Medium
@@ -212,6 +217,7 @@ Problem | Solution | Level
 [648 单词替换](https://leetcode-cn.com/problems/replace-words/description/)|[golang](./Algorithm/648.单词替换.go)|Medium
 [673 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/description/)|[golang](./Algorithm/673.最长递增子序列的个数.go)|Medium
 [674 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)|[golang](./Algorithm/674.最长连续递增序列.go)|Easy
+[676 实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary/description/)|[golang](./Algorithm/676.实现一个魔法字典.go)|Medium
 [677 键值映射](https://leetcode-cn.com/problems/map-sum-pairs/description/)|[golang](./Algorithm/677.键值映射.go)|Medium
 [688 马-在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/description/)|[golang](./Algorithm/688.马-在棋盘上的概率.go)|Medium
 [692 前k个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/description/)|[golang](./Algorithm/692.前k个高频单词.go)|Medium

@@ -14,20 +14,20 @@
  * Testcase Example:  '[1,2,3,null,5,null,4]'
  *
  * 给定一棵二叉树，想象自己站在它的右侧，按照从顶部到底部的顺序，返回从右侧所能看到的节点值。
- * 
+ *
  * 示例:
- * 
+ *
  * 输入: [1,2,3,null,5,null,4]
  * 输出: [1, 3, 4]
  * 解释:
- * 
+ *
  * ⁠  1            <---
  * ⁠/   \
  * 2     3         <---
  * ⁠\     \
  * ⁠ 5     4       <---
- * 
- * 
+ *
+ *
  */
 /**
  * Definition for a binary tree node.
@@ -38,6 +38,25 @@
  * }
  */
 func rightSideView(root *TreeNode) []int {
-    
+	result := make([]int, 0)
+	if root == nil {
+		return result
+	}
+	queue := []*TreeNode{root}
+	for len(queue) > 0 {
+		size := len(queue)
+		result = append(result, queue[size-1].Val)
+		newQueue := make([]*TreeNode, 0)
+		for _, q := range queue {
+			if q.Left != nil {
+				newQueue = append(newQueue, q.Left)
+			}
+			if q.Right != nil {
+				newQueue = append(newQueue, q.Right)
+			}
+			queue = newQueue
+		}
+	}
+	return result
 }
 
