@@ -36,6 +36,7 @@ Problem | Solution | Level
 [33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)|[golang](./Algorithm/33.搜索旋转排序数组.go)|Medium
 [34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[golang](./Algorithm/34.在排序数组中查找元素的第一个和最后一个位置.go)|Medium
 [35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/)|[golang](./Algorithm/35.搜索插入位置.go)|Easy
+[36 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/)|[golang](./Algorithm/36.有效的数独.go)|Medium
 [38 报数](https://leetcode-cn.com/problems/count-and-say/description/)|[golang](./Algorithm/38.报数.go)|Easy
 [39 组合总和](https://leetcode-cn.com/problems/combination-sum/description/)|[golang](./Algorithm/39.组合总和.go)|Medium
 [40 组合总和-ii](https://leetcode-cn.com/problems/combination-sum-ii/description/)|[golang](./Algorithm/40.组合总和-ii.go)|Medium
@@ -72,11 +73,15 @@ Problem | Solution | Level
 [77 组合](https://leetcode-cn.com/problems/combinations/description/)|[golang](./Algorithm/77.组合.go)|Medium
 [78 子集](https://leetcode-cn.com/problems/subsets/description/)|[golang](./Algorithm/78.子集.go)|Medium
 [79 单词搜索](https://leetcode-cn.com/problems/word-search/description/)|[golang](./Algorithm/79.单词搜索.go)|Medium
+[80 删除排序数组中的重复项-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[golang](./Algorithm/80.删除排序数组中的重复项-ii.go)|Medium
+[82 删除排序链表中的重复元素-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[golang](./Algorithm/82.删除排序链表中的重复元素-ii.go)|Medium
 [85 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/description/)|[golang](./Algorithm/85.最大矩形.go)|Hard
+[86 分隔链表](https://leetcode-cn.com/problems/partition-list/description/)|[golang](./Algorithm/86.分隔链表.go)|Medium
 [88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/)|[golang](./Algorithm/88.合并两个有序数组.go)|Easy
 [89 格雷编码](https://leetcode-cn.com/problems/gray-code/description/)|[golang](./Algorithm/89.格雷编码.go)|Medium
 [90 子集-ii](https://leetcode-cn.com/problems/subsets-ii/description/)|[golang](./Algorithm/90.子集-ii.go)|Medium
 [91 解码方法](https://leetcode-cn.com/problems/decode-ways/description/)|[golang](./Algorithm/91.解码方法.go)|Medium
+[92 反转链表-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/)|[golang](./Algorithm/92.反转链表-ii.go)|Medium
 [93 复原ip地址](https://leetcode-cn.com/problems/restore-ip-addresses/description/)|[golang](./Algorithm/93.复原ip地址.go)|Medium
 [94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[golang](./Algorithm/94.二叉树的中序遍历.go)|Medium
 [95 不同的二叉搜索树-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/description/)|[golang](./Algorithm/95.不同的二叉搜索树-ii.go)|Medium
