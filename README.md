@@ -32,6 +32,7 @@ Problem | Solution | Level
 [26 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|[golang](./Algorithm/26.删除排序数组中的重复项.go)|Easy
 [27 移除元素](https://leetcode-cn.com/problems/remove-element/description/)|[golang](./Algorithm/27.移除元素.go)|Easy
 [28 实现str-str](https://leetcode-cn.com/problems/implement-strstr/description/)|[golang](./Algorithm/28.实现str-str.go)|Easy
+[31 下一个排列](https://leetcode-cn.com/problems/next-permutation/description/)|[golang](./Algorithm/31.下一个排列.go)|Medium
 [32 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/description/)|[golang](./Algorithm/32.最长有效括号.go)|Hard
 [33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)|[golang](./Algorithm/33.搜索旋转排序数组.go)|Medium
 [34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[golang](./Algorithm/34.在排序数组中查找元素的第一个和最后一个位置.go)|Medium
@@ -104,6 +105,7 @@ Problem | Solution | Level
 [114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/description/)|[golang](./Algorithm/114.二叉树展开为链表.go)|Medium
 [115 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/description/)|[golang](./Algorithm/115.不同的子序列.go)|Hard
 [116 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/description/)|[python](./Algorithm/116.填充每个节点的下一个右侧节点指针.py)|Medium
+[117 填充每个节点的下一个右侧节点指针-ii](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/description/)|[python](./Algorithm/117.填充每个节点的下一个右侧节点指针-ii.py)|Medium
 [118 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|[golang](./Algorithm/118.杨辉三角.go)|Easy
 [119 杨辉三角-ii](https://leetcode-cn.com/problems/pascals-triangle-ii/description/)|[golang](./Algorithm/119.杨辉三角-ii.go)|Easy
 [120 三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/)|[golang](./Algorithm/120.三角形最小路径和.go)|Medium
@@ -170,6 +172,8 @@ Problem | Solution | Level
 [222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/description/)|[golang](./Algorithm/222.完全二叉树的节点个数.go)|Medium
 [226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)|[golang](./Algorithm/226.翻转二叉树.go)|Easy
 [227 基本计算器-ii](https://leetcode-cn.com/problems/basic-calculator-ii/description/)|[golang](./Algorithm/227.基本计算器-ii.go)|Medium
+[228 汇总区间](https://leetcode-cn.com/problems/summary-ranges/description/)|[golang](./Algorithm/228.汇总区间.go)|Medium
+[229 求众数-ii](https://leetcode-cn.com/problems/majority-element-ii/description/)|[golang](./Algorithm/229.求众数-ii.go)|Medium
 [230 二叉搜索树中第k小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/)|[golang](./Algorithm/230.二叉搜索树中第k小的元素.go)|Medium
 [234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/)|[golang](./Algorithm/234.回文链表.go)|Easy
 [235 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[golang](./Algorithm/235.二叉搜索树的最近公共祖先.go)|Easy
@@ -179,11 +183,13 @@ Problem | Solution | Level
 [240 搜索二维矩阵-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|[golang](./Algorithm/240.搜索二维矩阵-ii.go)|Medium
 [241 为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/description/)|[golang](./Algorithm/241.为运算表达式设计优先级.go)|Medium
 [242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)|[golang](./Algorithm/242.有效的字母异位词.go)|Easy
+[260 只出现一次的数字-iii](https://leetcode-cn.com/problems/single-number-iii/description/)|[golang](./Algorithm/260.只出现一次的数字-iii.go)|Medium
 [264 丑数-ii](https://leetcode-cn.com/problems/ugly-number-ii/description/)|[golang](./Algorithm/264.丑数-ii.go)|Medium
 [268 缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|[golang](./Algorithm/268.缺失数字.go)|Easy
 [278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/)|[python](./Algorithm/278.第一个错误的版本.py)|Easy
 [279 完全平方数](https://leetcode-cn.com/problems/perfect-squares/description/)|[golang](./Algorithm/279.完全平方数.go)|Medium
 [283 移动零](https://leetcode-cn.com/problems/move-zeroes/description/)|[golang](./Algorithm/283.移动零.go)|Easy
+[284 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/description/)|[python](./Algorithm/284.顶端迭代器.py)|Medium
 [287 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|[golang](./Algorithm/287.寻找重复数.go)|Medium
 [289 生命游戏](https://leetcode-cn.com/problems/game-of-life/description/)|[golang](./Algorithm/289.生命游戏.go)|Medium
 [295 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/description/)|[golang](./Algorithm/295.数据流的中位数.go)|Hard
@@ -197,6 +203,7 @@ Problem | Solution | Level
 [326 3-的幂](https://leetcode-cn.com/problems/power-of-three/description/)|[golang](./Algorithm/326.3-的幂.go)|Easy
 [328 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/description/)|[golang](./Algorithm/328.奇偶链表.go)|Medium
 [329 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/description/)|[golang](./Algorithm/329.矩阵中的最长递增路径.go)|Hard
+[331 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)|[golang](./Algorithm/331.验证二叉树的前序序列化.go)|Medium
 [334 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/description/)|[golang](./Algorithm/334.递增的三元子序列.go)|Medium
 [337 打家劫舍-iii](https://leetcode-cn.com/problems/house-robber-iii/description/)|[golang](./Algorithm/337.打家劫舍-iii.go)|Medium
 [338 比特位计数](https://leetcode-cn.com/problems/counting-bits/description/)|[golang](./Algorithm/338.比特位计数.go)|Medium
@@ -212,6 +219,7 @@ Problem | Solution | Level
 [376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/description/)|[golang](./Algorithm/376.摆动序列.go)|Medium
 [377 组合总和-ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/description/)|[golang](./Algorithm/377.组合总和-ⅳ.go)|Medium
 [378 有序矩阵中第k小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[golang](./Algorithm/378.有序矩阵中第k小的元素.go)|Medium
+[382 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/description/)|[golang](./Algorithm/382.链表随机节点.go)|Medium
 [387 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|[golang](./Algorithm/387.字符串中的第一个唯一字符.go)|Easy
 [392 判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/)|[golang](./Algorithm/392.判断子序列.go)|Medium
 [393 utf-8-编码验证](https://leetcode-cn.com/problems/utf-8-validation/description/)|[golang](./Algorithm/393.utf-8-编码验证.go)|Medium

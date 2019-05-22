@@ -43,7 +43,7 @@ func minSubArrayLen(s int, nums []int) int {
 	}
 	res := n
 	for start < n {
-		left := s - nums[start]
+		left := partialSum[start] - s
 		from := findLessOrEqual(partialSum, left, 0, start)
 		if start-from < res {
 			res = start - from
