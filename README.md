@@ -229,10 +229,17 @@ Problem | Solution | Level
 [376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/description/)|[golang](./Algorithm/376.摆动序列.go)|Medium
 [377 组合总和-ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/description/)|[golang](./Algorithm/377.组合总和-ⅳ.go)|Medium
 [378 有序矩阵中第k小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[golang](./Algorithm/378.有序矩阵中第k小的元素.go)|Medium
+[380 常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/description/)|[golang](./Algorithm/380.常数时间插入、删除和获取随机元素.go)|Medium
 [382 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/description/)|[golang](./Algorithm/382.链表随机节点.go)|Medium
+[384 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/description/)|[golang](./Algorithm/384.打乱数组.go)|Medium
+[385 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/description/)|[golang](./Algorithm/385.迷你语法分析器.go)|Medium
+[386 字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/description/)|[golang](./Algorithm/386.字典序排数.go)|Medium
 [387 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|[golang](./Algorithm/387.字符串中的第一个唯一字符.go)|Easy
+[388 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/description/)|[golang](./Algorithm/388.文件的最长绝对路径.go)|Medium
+[390 消除游戏](https://leetcode-cn.com/problems/elimination-game/description/)|[golang](./Algorithm/390.消除游戏.go)|Medium
 [392 判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/)|[golang](./Algorithm/392.判断子序列.go)|Medium
 [393 utf-8-编码验证](https://leetcode-cn.com/problems/utf-8-validation/description/)|[golang](./Algorithm/393.utf-8-编码验证.go)|Medium
+[394 字符串解码](https://leetcode-cn.com/problems/decode-string/description/)|[golang](./Algorithm/394.字符串解码.go)|Medium
 [401 二进制手表](https://leetcode-cn.com/problems/binary-watch/description/)|[golang](./Algorithm/401.二进制手表.go)|Easy
 [412 fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|[golang](./Algorithm/412.fizz-buzz.go)|Easy
 [416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/description/)|[golang](./Algorithm/416.分割等和子集.go)|Medium
