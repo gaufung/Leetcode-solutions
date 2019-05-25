@@ -56,6 +56,7 @@ Problem | Solution | Level
 [54 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/)|[golang](./Algorithm/54.螺旋矩阵.go)|Medium
 [55 跳跃游戏](https://leetcode-cn.com/problems/jump-game/description/)|[golang](./Algorithm/55.跳跃游戏.go)|Medium
 [56 合并区间](https://leetcode-cn.com/problems/merge-intervals/description/)|[golang](./Algorithm/56.合并区间.go)|Medium
+[57 插入区间](https://leetcode-cn.com/problems/insert-interval/description/)|[golang](./Algorithm/57.插入区间.go)|Hard
 [59 螺旋矩阵-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/description/)|[golang](./Algorithm/59.螺旋矩阵-ii.go)|Medium
 [60 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/description/)|[golang](./Algorithm/60.第k个排列.go)|Medium
 [61 旋转链表](https://leetcode-cn.com/problems/rotate-list/description/)|[golang](./Algorithm/61.旋转链表.go)|Medium
@@ -113,6 +114,7 @@ Problem | Solution | Level
 [122 买卖股票的最佳时机-ii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[golang](./Algorithm/122.买卖股票的最佳时机-ii.go)|Easy
 [124 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/description/)|[golang](./Algorithm/124.二叉树中的最大路径和.go)|Hard
 [125 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|[golang](./Algorithm/125.验证回文串.go)|Easy
+[126 单词接龙-ii](https://leetcode-cn.com/problems/word-ladder-ii/description/)|[golang](./Algorithm/126.单词接龙-ii.go)|Hard
 [127 单词接龙](https://leetcode-cn.com/problems/word-ladder/description/)|[golang](./Algorithm/127.单词接龙.go)|Medium
 [128 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/description/)|[golang](./Algorithm/128.最长连续序列.go)|Hard
 [129 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/description/)|[golang](./Algorithm/129.求根到叶子节点数字之和.go)|Medium
@@ -125,6 +127,7 @@ Problem | Solution | Level
 [137 只出现一次的数字-ii](https://leetcode-cn.com/problems/single-number-ii/description/)|[golang](./Algorithm/137.只出现一次的数字-ii.go)|Medium
 [138 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/description/)|[python](./Algorithm/138.复制带随机指针的链表.py)|Medium
 [139 单词拆分](https://leetcode-cn.com/problems/word-break/description/)|[golang](./Algorithm/139.单词拆分.go)|Medium
+[140 单词拆分-ii](https://leetcode-cn.com/problems/word-break-ii/description/)|[golang](./Algorithm/140.单词拆分-ii.go)|Hard
 [141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[golang](./Algorithm/141.环形链表.go)|Easy
 [142 环形链表-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[golang](./Algorithm/142.环形链表-ii.go)|Medium
 [143 重排链表](https://leetcode-cn.com/problems/reorder-list/description/)|[golang](./Algorithm/143.重排链表.go)|Medium
@@ -164,6 +167,7 @@ Problem | Solution | Level
 [209 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/)|[golang](./Algorithm/209.长度最小的子数组.go)|Medium
 [210 课程表-ii](https://leetcode-cn.com/problems/course-schedule-ii/description/)|[golang](./Algorithm/210.课程表-ii.go)|Medium
 [211 添加与搜索单词-数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/description/)|[golang](./Algorithm/211.添加与搜索单词-数据结构设计.go)|Medium
+[212 单词搜索-ii](https://leetcode-cn.com/problems/word-search-ii/description/)|[golang](./Algorithm/212.单词搜索-ii.go)|Hard
 [213 打家劫舍-ii](https://leetcode-cn.com/problems/house-robber-ii/description/)|[golang](./Algorithm/213.打家劫舍-ii.go)|Medium
 [215 数组中的第k个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/)|[golang](./Algorithm/215.数组中的第k个最大元素.go)|Medium
 [216 组合总和-iii](https://leetcode-cn.com/problems/combination-sum-iii/description/)|[golang](./Algorithm/216.组合总和-iii.go)|Medium
@@ -176,6 +180,7 @@ Problem | Solution | Level
 [228 汇总区间](https://leetcode-cn.com/problems/summary-ranges/description/)|[golang](./Algorithm/228.汇总区间.go)|Medium
 [229 求众数-ii](https://leetcode-cn.com/problems/majority-element-ii/description/)|[golang](./Algorithm/229.求众数-ii.go)|Medium
 [230 二叉搜索树中第k小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/)|[golang](./Algorithm/230.二叉搜索树中第k小的元素.go)|Medium
+[231 2-的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[golang](./Algorithm/231.2-的幂.go)|Easy
 [234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/)|[golang](./Algorithm/234.回文链表.go)|Easy
 [235 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[golang](./Algorithm/235.二叉搜索树的最近公共祖先.go)|Easy
 [236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[golang](./Algorithm/236.二叉树的最近公共祖先.go)|Medium
@@ -215,6 +220,7 @@ Problem | Solution | Level
 [334 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/description/)|[golang](./Algorithm/334.递增的三元子序列.go)|Medium
 [337 打家劫舍-iii](https://leetcode-cn.com/problems/house-robber-iii/description/)|[golang](./Algorithm/337.打家劫舍-iii.go)|Medium
 [338 比特位计数](https://leetcode-cn.com/problems/counting-bits/description/)|[golang](./Algorithm/338.比特位计数.go)|Medium
+[342 4-的幂](https://leetcode-cn.com/problems/power-of-four/description/)|[golang](./Algorithm/342.4-的幂.go)|Easy
 [343 整数拆分](https://leetcode-cn.com/problems/integer-break/description/)|[golang](./Algorithm/343.整数拆分.go)|Medium
 [344 反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|[golang](./Algorithm/344.反转字符串.go)|Easy
 [347 前k个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)|[golang](./Algorithm/347.前k个高频元素.go)|Medium
@@ -222,6 +228,7 @@ Problem | Solution | Level
 [354 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/description/)|[golang](./Algorithm/354.俄罗斯套娃信封问题.go)|Hard
 [355 设计推特](https://leetcode-cn.com/problems/design-twitter/description/)|[golang](./Algorithm/355.设计推特.go)|Medium
 [357 计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/description/)|[golang](./Algorithm/357.计算各个位数不同的数字个数.go)|Medium
+[367 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/description/)|[golang](./Algorithm/367.有效的完全平方数.go)|Easy
 [368 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[golang](./Algorithm/368.最大整除子集.go)|Medium
 [371 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/)|[golang](./Algorithm/371.两整数之和.go)|Easy
 [373 查找和最小的k对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/description/)|[golang](./Algorithm/373.查找和最小的k对数字.go)|Medium
@@ -236,22 +243,29 @@ Problem | Solution | Level
 [386 字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/description/)|[golang](./Algorithm/386.字典序排数.go)|Medium
 [387 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|[golang](./Algorithm/387.字符串中的第一个唯一字符.go)|Easy
 [388 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/description/)|[golang](./Algorithm/388.文件的最长绝对路径.go)|Medium
+[389 找不同](https://leetcode-cn.com/problems/find-the-difference/description/)|[golang](./Algorithm/389.找不同.go)|Easy
 [390 消除游戏](https://leetcode-cn.com/problems/elimination-game/description/)|[golang](./Algorithm/390.消除游戏.go)|Medium
 [392 判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/)|[golang](./Algorithm/392.判断子序列.go)|Medium
 [393 utf-8-编码验证](https://leetcode-cn.com/problems/utf-8-validation/description/)|[golang](./Algorithm/393.utf-8-编码验证.go)|Medium
 [394 字符串解码](https://leetcode-cn.com/problems/decode-string/description/)|[golang](./Algorithm/394.字符串解码.go)|Medium
+[397 整数替换](https://leetcode-cn.com/problems/integer-replacement/description/)|[golang](./Algorithm/397.整数替换.go)|Medium
 [401 二进制手表](https://leetcode-cn.com/problems/binary-watch/description/)|[golang](./Algorithm/401.二进制手表.go)|Easy
+[405 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|[golang](./Algorithm/405.数字转换为十六进制数.go)|Easy
 [412 fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|[golang](./Algorithm/412.fizz-buzz.go)|Easy
 [416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/description/)|[golang](./Algorithm/416.分割等和子集.go)|Medium
 [421 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)|[golang](./Algorithm/421.数组中两个数的最大异或值.go)|Medium
 [432 全-o-1-的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/description/)|[golang](./Algorithm/432.全-o-1-的数据结构.go)|Hard
+[441 排列硬币](https://leetcode-cn.com/problems/arranging-coins/description/)|[golang](./Algorithm/441.排列硬币.go)|Easy
 [450 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/description/)|[golang](./Algorithm/450.删除二叉搜索树中的节点.go)|Medium
 [454 四数相加-ii](https://leetcode-cn.com/problems/4sum-ii/description/)|[golang](./Algorithm/454.四数相加-ii.go)|Medium
 [461 汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|[golang](./Algorithm/461.汉明距离.go)|Easy
+[476 数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|[golang](./Algorithm/476.数字的补数.go)|Easy
+[477 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/description/)|[golang](./Algorithm/477.汉明距离总和.go)|Medium
 [494 目标和](https://leetcode-cn.com/problems/target-sum/description/)|[golang](./Algorithm/494.目标和.go)|Medium
 [513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/)|[golang](./Algorithm/513.找树左下角的值.go)|Medium
 [523 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/description/)|[golang](./Algorithm/523.连续的子数组和.go)|Medium
 [526 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/description/)|[golang](./Algorithm/526.优美的排列.go)|Medium
+[530 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/)|[golang](./Algorithm/530.二叉搜索树的最小绝对差.go)|Easy
 [538 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[golang](./Algorithm/538.把二叉搜索树转换为累加树.go)|Easy
 [542 01-矩阵](https://leetcode-cn.com/problems/01-matrix/description/)|[golang](./Algorithm/542.01-矩阵.go)|Medium
 [543 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|[golang](./Algorithm/543.二叉树的直径.go)|Easy
@@ -268,6 +282,7 @@ Problem | Solution | Level
 [677 键值映射](https://leetcode-cn.com/problems/map-sum-pairs/description/)|[golang](./Algorithm/677.键值映射.go)|Medium
 [688 马-在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/description/)|[golang](./Algorithm/688.马-在棋盘上的概率.go)|Medium
 [692 前k个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/description/)|[golang](./Algorithm/692.前k个高频单词.go)|Medium
+[693 交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/)|[golang](./Algorithm/693.交替位二进制数.go)|Easy
 [695 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/description/)|[golang](./Algorithm/695.岛屿的最大面积.go)|Medium
 [714 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[golang](./Algorithm/714.买卖股票的最佳时机含手续费.go)|Medium
 [718 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/description/)|[golang](./Algorithm/718.最长重复子数组.go)|Medium
