@@ -104,7 +104,7 @@ func bfs(seed int, neighbourhood map[int][]int, wordList []string, visited []int
 	if seed == target {
 		visited[seed] = false
 		return [][]string{
-			[]string{wordList[seed]}
+			[]string{wordList[seed]},
 		}, true
 	}
 	neighs := neighbourhood(seed)
@@ -112,10 +112,10 @@ func bfs(seed int, neighbourhood map[int][]int, wordList []string, visited []int
 		return [][]string{}, false
 	}
 	result := make([][]string, 0)
-	for i:=0; i < len(neighs); i++{
+	for i := 0; i < len(neighs); i++ {
 		visited[neighs[i]] = true
 	}
-	
+
 }
 
 func createNeighbourhoold(wordList []string) map[int][]int {

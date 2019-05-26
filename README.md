@@ -175,6 +175,7 @@ Problem | Solution | Level
 [221 最大正方形](https://leetcode-cn.com/problems/maximal-square/description/)|[golang](./Algorithm/221.最大正方形.go)|Medium
 [222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/description/)|[golang](./Algorithm/222.完全二叉树的节点个数.go)|Medium
 [223 矩形面积](https://leetcode-cn.com/problems/rectangle-area/description/)|[golang](./Algorithm/223.矩形面积.go)|Medium
+[225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/)|[golang](./Algorithm/225.用队列实现栈.go)|Easy
 [226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)|[golang](./Algorithm/226.翻转二叉树.go)|Easy
 [227 基本计算器-ii](https://leetcode-cn.com/problems/basic-calculator-ii/description/)|[golang](./Algorithm/227.基本计算器-ii.go)|Medium
 [228 汇总区间](https://leetcode-cn.com/problems/summary-ranges/description/)|[golang](./Algorithm/228.汇总区间.go)|Medium
@@ -189,6 +190,7 @@ Problem | Solution | Level
 [240 搜索二维矩阵-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|[golang](./Algorithm/240.搜索二维矩阵-ii.go)|Medium
 [241 为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/description/)|[golang](./Algorithm/241.为运算表达式设计优先级.go)|Medium
 [242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)|[golang](./Algorithm/242.有效的字母异位词.go)|Easy
+[257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/description/)|[golang](./Algorithm/257.二叉树的所有路径.go)|Easy
 [260 只出现一次的数字-iii](https://leetcode-cn.com/problems/single-number-iii/description/)|[golang](./Algorithm/260.只出现一次的数字-iii.go)|Medium
 [264 丑数-ii](https://leetcode-cn.com/problems/ugly-number-ii/description/)|[golang](./Algorithm/264.丑数-ii.go)|Medium
 [268 缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|[golang](./Algorithm/268.缺失数字.go)|Easy
@@ -261,8 +263,10 @@ Problem | Solution | Level
 [461 汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|[golang](./Algorithm/461.汉明距离.go)|Easy
 [476 数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|[golang](./Algorithm/476.数字的补数.go)|Easy
 [477 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/description/)|[golang](./Algorithm/477.汉明距离总和.go)|Medium
+[491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/description/)|[golang](./Algorithm/491.递增子序列.go)|Medium
 [494 目标和](https://leetcode-cn.com/problems/target-sum/description/)|[golang](./Algorithm/494.目标和.go)|Medium
 [513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/)|[golang](./Algorithm/513.找树左下角的值.go)|Medium
+[515 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/description/)|[golang](./Algorithm/515.在每个树行中找最大值.go)|Medium
 [523 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/description/)|[golang](./Algorithm/523.连续的子数组和.go)|Medium
 [526 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/description/)|[golang](./Algorithm/526.优美的排列.go)|Medium
 [530 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/)|[golang](./Algorithm/530.二叉搜索树的最小绝对差.go)|Easy
@@ -281,6 +285,7 @@ Problem | Solution | Level
 [676 实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary/description/)|[golang](./Algorithm/676.实现一个魔法字典.go)|Medium
 [677 键值映射](https://leetcode-cn.com/problems/map-sum-pairs/description/)|[golang](./Algorithm/677.键值映射.go)|Medium
 [688 马-在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/description/)|[golang](./Algorithm/688.马-在棋盘上的概率.go)|Medium
+[690 员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/)|[python](./Algorithm/690.员工的重要性.py)|Easy
 [692 前k个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/description/)|[golang](./Algorithm/692.前k个高频单词.go)|Medium
 [693 交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/)|[golang](./Algorithm/693.交替位二进制数.go)|Easy
 [695 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/description/)|[golang](./Algorithm/695.岛屿的最大面积.go)|Medium
@@ -288,4 +293,5 @@ Problem | Solution | Level
 [718 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/description/)|[golang](./Algorithm/718.最长重复子数组.go)|Medium
 [720 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/description/)|[golang](./Algorithm/720.词典中最长的单词.go)|Easy
 [740 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/description/)|[golang](./Algorithm/740.删除与获得点数.go)|Medium
+[743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/description/)|[golang](./Algorithm/743.网络延迟时间.go)|Medium
 [746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|[golang](./Algorithm/746.使用最小花费爬楼梯.go)|Easy
