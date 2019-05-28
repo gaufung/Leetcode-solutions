@@ -33,65 +33,86 @@ func restoreIpAddresses(s string) []string {
 	}
 	stack := NewStack()
 	stack.Push(0)
+	stack.Push(0)
 	result := make([]string, 0)
-	for stack.Size() > 0 {
+	for stack.Size() > 1 {
 		top := stack.Pop() + 1
-		if top >= n {
+		if top > n {
 			continue
 		}
-		if stack.Size() == 0 {
-			if valid(s[0:top]) {
-				stack.Push(top)
-			} else {
-				continue
-			}
-		} else {
-			if valid(s[stack.Top():top]) {
-				stack.Push(top)
-			} else {
-				continue
+		for i := top; i <= n && stack.Size() < 6; i++ {
+			if valid(s[stack.Top():i]) {
+				stack.Push(i)
 			}
 		}
-		if stack.Size() == 1 {
-			index := stack.Top() + 1
-			for index < n {
-				if valid(s[stack.Top():index]) {
-					stack.Push(index)
-					break
-				}
+		if stack.Size() == 5 && stack.Top() == n {
+			values := stack.Values()
+			items := make([]string, 0)
+			for i := 0; i < len(values)-1; i++ {
+				items = append(items, s[values[i]:values[i+1]])
 			}
-			if index == n {
-				continue
-			}
-		}
-		if stack.Size() == 2 {
-			index := stack.Top() + 1
-			for index < n {
-				if valid(s[stack.Top():index]) {
-					stack.Push(index)
-					break
-				}
-			}
-			if index == n {
-				continue
-			}
-		}
-		if stack.Size() == 3 {
-			if valid(s[stack.Top():n]) {
-				stack.Push(n)
-				items := make([]string, 0)
-				startIndex := 0
-				for _, index := range stack.Values() {
-					items = append(items, s[startIndex:index])
-					startIndex = index
-				}
-				result = append(result, strings.Join(items, "."))
-
-			} else {
-				continue
-			}
+			result = append(result, strings.Join(items, "."))
 		}
 	}
+	// result := make([]string, 0)
+	// for stack.Size() > 0 {
+	// 	top := stack.Pop() + 1
+	// 	if top >= n {
+	// 		continue
+	// 	}
+	// 	if stack.Size() == 0 {
+	// 		if valid(s[0:top]) {
+	// 			stack.Push(top)
+	// 		} else {
+	// 			continue
+	// 		}
+	// 	} else {
+	// 		if valid(s[stack.Top():top]) {
+	// 			stack.Push(top)
+	// 		} else {
+	// 			continue
+	// 		}
+	// 	}
+	// 	if stack.Size() == 1 {
+	// 		index := stack.Top() + 1
+	// 		for index < n {
+	// 			if valid(s[stack.Top():index]) {
+	// 				stack.Push(index)
+	// 				break
+	// 			}
+	// 		}
+	// 		if index == n {
+	// 			continue
+	// 		}
+	// 	}
+	// 	if stack.Size() == 2 {
+	// 		index := stack.Top() + 1
+	// 		for index < n {
+	// 			if valid(s[stack.Top():index]) {
+	// 				stack.Push(index)
+	// 				break
+	// 			}
+	// 		}
+	// 		if index == n {
+	// 			continue
+	// 		}
+	// 	}
+	// 	if stack.Size() == 3 {
+	// 		if valid(s[stack.Top():n]) {
+	// 			stack.Push(n)
+	// 			items := make([]string, 0)
+	// 			startIndex := 0
+	// 			for _, index := range stack.Values() {
+	// 				items = append(items, s[startIndex:index])
+	// 				startIndex = index
+	// 			}
+	// 			result = append(result, strings.Join(items, "."))
+
+	// 		} else {
+	// 			continue
+	// 		}
+	// 	}
+	// }
 
 	return result
 }
