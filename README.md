@@ -38,6 +38,7 @@ Problem | Solution | Level
 [34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[golang](./Algorithm/34.在排序数组中查找元素的第一个和最后一个位置.go)|Medium
 [35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/)|[golang](./Algorithm/35.搜索插入位置.go)|Easy
 [36 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/)|[golang](./Algorithm/36.有效的数独.go)|Medium
+[37 解数独](https://leetcode-cn.com/problems/sudoku-solver/description/)|[golang](./Algorithm/37.解数独.go)|Hard
 [38 报数](https://leetcode-cn.com/problems/count-and-say/description/)|[golang](./Algorithm/38.报数.go)|Easy
 [39 组合总和](https://leetcode-cn.com/problems/combination-sum/description/)|[golang](./Algorithm/39.组合总和.go)|Medium
 [40 组合总和-ii](https://leetcode-cn.com/problems/combination-sum-ii/description/)|[golang](./Algorithm/40.组合总和-ii.go)|Medium
@@ -266,12 +267,15 @@ Problem | Solution | Level
 [477 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/description/)|[golang](./Algorithm/477.汉明距离总和.go)|Medium
 [491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/description/)|[golang](./Algorithm/491.递增子序列.go)|Medium
 [494 目标和](https://leetcode-cn.com/problems/target-sum/description/)|[golang](./Algorithm/494.目标和.go)|Medium
+[498 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/description/)|[golang](./Algorithm/498.对角线遍历.go)|Medium
 [513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/)|[golang](./Algorithm/513.找树左下角的值.go)|Medium
 [515 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/description/)|[golang](./Algorithm/515.在每个树行中找最大值.go)|Medium
+[518 零钱兑换-ii](https://leetcode-cn.com/problems/coin-change-2/description/)|[golang](./Algorithm/518.零钱兑换-ii.go)|Medium
 [523 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/description/)|[golang](./Algorithm/523.连续的子数组和.go)|Medium
 [526 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/description/)|[golang](./Algorithm/526.优美的排列.go)|Medium
 [530 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/)|[golang](./Algorithm/530.二叉搜索树的最小绝对差.go)|Easy
 [538 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[golang](./Algorithm/538.把二叉搜索树转换为累加树.go)|Easy
+[540 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/)|[golang](./Algorithm/540.有序数组中的单一元素.go)|Medium
 [542 01-矩阵](https://leetcode-cn.com/problems/01-matrix/description/)|[golang](./Algorithm/542.01-矩阵.go)|Medium
 [543 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|[golang](./Algorithm/543.二叉树的直径.go)|Easy
 [547 朋友圈](https://leetcode-cn.com/problems/friend-circles/description/)|[golang](./Algorithm/547.朋友圈.go)|Medium
