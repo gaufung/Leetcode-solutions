@@ -265,6 +265,7 @@ Problem | Solution | Level
 [450 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/description/)|[golang](./Algorithm/450.删除二叉搜索树中的节点.go)|Medium
 [454 四数相加-ii](https://leetcode-cn.com/problems/4sum-ii/description/)|[golang](./Algorithm/454.四数相加-ii.go)|Medium
 [461 汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|[golang](./Algorithm/461.汉明距离.go)|Easy
+[462 最少移动次数使数组元素相等-ii](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/description/)|[golang](./Algorithm/462.最少移动次数使数组元素相等-ii.go)|Medium
 [474 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/description/)|[golang](./Algorithm/474.一和零.go)|Medium
 [476 数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|[golang](./Algorithm/476.数字的补数.go)|Easy
 [477 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/description/)|[golang](./Algorithm/477.汉明距离总和.go)|Medium
@@ -290,6 +291,7 @@ Problem | Solution | Level
 [647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/description/)|[golang](./Algorithm/647.回文子串.go)|Medium
 [648 单词替换](https://leetcode-cn.com/problems/replace-words/description/)|[golang](./Algorithm/648.单词替换.go)|Medium
 [662 二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/description/)|[golang](./Algorithm/662.二叉树最大宽度.go)|Medium
+[671 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)|[golang](./Algorithm/671.二叉树中第二小的节点.go)|Easy
 [673 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/description/)|[golang](./Algorithm/673.最长递增子序列的个数.go)|Medium
 [674 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)|[golang](./Algorithm/674.最长连续递增序列.go)|Easy
 [676 实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary/description/)|[golang](./Algorithm/676.实现一个魔法字典.go)|Medium
