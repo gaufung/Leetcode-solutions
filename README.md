@@ -267,6 +267,7 @@ Problem | Solution | Level
 [432 全-o-1-的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/description/)|[golang](./Algorithm/432.全-o-1-的数据结构.go)|Hard
 [435 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/description/)|[golang](./Algorithm/435.无重叠区间.go)|Medium
 [441 排列硬币](https://leetcode-cn.com/problems/arranging-coins/description/)|[golang](./Algorithm/441.排列硬币.go)|Easy
+[442 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)|[golang](./Algorithm/442.数组中重复的数据.go)|Medium
 [445 两数相加-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/description/)|[golang](./Algorithm/445.两数相加-ii.go)|Medium
 [450 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/description/)|[golang](./Algorithm/450.删除二叉搜索树中的节点.go)|Medium
 [454 四数相加-ii](https://leetcode-cn.com/problems/4sum-ii/description/)|[golang](./Algorithm/454.四数相加-ii.go)|Medium
