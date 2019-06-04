@@ -298,6 +298,7 @@ Problem | Solution | Level
 [647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/description/)|[golang](./Algorithm/647.回文子串.go)|Medium
 [648 单词替换](https://leetcode-cn.com/problems/replace-words/description/)|[golang](./Algorithm/648.单词替换.go)|Medium
 [662 二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/description/)|[golang](./Algorithm/662.二叉树最大宽度.go)|Medium
+[670 最大交换](https://leetcode-cn.com/problems/maximum-swap/description/)|[golang](./Algorithm/670.最大交换.go)|Medium
 [671 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)|[golang](./Algorithm/671.二叉树中第二小的节点.go)|Easy
 [673 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/description/)|[golang](./Algorithm/673.最长递增子序列的个数.go)|Medium
 [674 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)|[golang](./Algorithm/674.最长连续递增序列.go)|Easy
