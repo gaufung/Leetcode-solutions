@@ -315,6 +315,7 @@ Problem | Solution | Level
 [714 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[golang](./Algorithm/714.买卖股票的最佳时机含手续费.go)|Medium
 [718 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/description/)|[golang](./Algorithm/718.最长重复子数组.go)|Medium
 [720 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/description/)|[golang](./Algorithm/720.词典中最长的单词.go)|Easy
+[739 每日温度](https://leetcode-cn.com/problems/daily-temperatures/description/)|[golang](./Algorithm/739.每日温度.go)|Medium
 [740 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/description/)|[golang](./Algorithm/740.删除与获得点数.go)|Medium
 [743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/description/)|[golang](./Algorithm/743.网络延迟时间.go)|Medium
 [746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|[golang](./Algorithm/746.使用最小花费爬楼梯.go)|Easy
