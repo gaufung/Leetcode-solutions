@@ -45,7 +45,10 @@
  *
  */
 func isUgly(num int) bool {
-	for abs(num) > 1 {
+	if num <= 0 {
+		return false
+	}
+	for num > 1 {
 		if num%2 == 0 {
 			num /= 2
 		} else if num%3 == 0 {
@@ -57,13 +60,5 @@ func isUgly(num int) bool {
 		}
 	}
 	return true
-}
-
-func abs(a int) int {
-	if a > 0 {
-		return a
-	} else {
-		return -a
-	}
 }
 
