@@ -275,8 +275,10 @@ Problem | Solution | Level
 [392 判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/)|[golang](./Algorithm/392.判断子序列.go)|Medium
 [393 utf-8-编码验证](https://leetcode-cn.com/problems/utf-8-validation/description/)|[golang](./Algorithm/393.utf-8-编码验证.go)|Medium
 [394 字符串解码](https://leetcode-cn.com/problems/decode-string/description/)|[golang](./Algorithm/394.字符串解码.go)|Medium
+[396 旋转函数](https://leetcode-cn.com/problems/rotate-function/description/)|[golang](./Algorithm/396.旋转函数.go)|Medium
 [397 整数替换](https://leetcode-cn.com/problems/integer-replacement/description/)|[golang](./Algorithm/397.整数替换.go)|Medium
 [401 二进制手表](https://leetcode-cn.com/problems/binary-watch/description/)|[golang](./Algorithm/401.二进制手表.go)|Easy
+[404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|[golang](./Algorithm/404.左叶子之和.go)|Easy
 [405 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|[golang](./Algorithm/405.数字转换为十六进制数.go)|Easy
 [412 fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|[golang](./Algorithm/412.fizz-buzz.go)|Easy
 [416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/description/)|[golang](./Algorithm/416.分割等和子集.go)|Medium
