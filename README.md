@@ -277,6 +277,8 @@ Problem | Solution | Level
 [394 字符串解码](https://leetcode-cn.com/problems/decode-string/description/)|[golang](./Algorithm/394.字符串解码.go)|Medium
 [396 旋转函数](https://leetcode-cn.com/problems/rotate-function/description/)|[golang](./Algorithm/396.旋转函数.go)|Medium
 [397 整数替换](https://leetcode-cn.com/problems/integer-replacement/description/)|[golang](./Algorithm/397.整数替换.go)|Medium
+[398 随机数索引](https://leetcode-cn.com/problems/random-pick-index/description/)|[golang](./Algorithm/398.随机数索引.go)|Medium
+[400 第n个数字](https://leetcode-cn.com/problems/nth-digit/description/)|[golang](./Algorithm/400.第n个数字.go)|Easy
 [401 二进制手表](https://leetcode-cn.com/problems/binary-watch/description/)|[golang](./Algorithm/401.二进制手表.go)|Easy
 [404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|[golang](./Algorithm/404.左叶子之和.go)|Easy
 [405 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|[golang](./Algorithm/405.数字转换为十六进制数.go)|Easy
