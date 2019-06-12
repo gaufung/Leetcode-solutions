@@ -282,7 +282,10 @@ Problem | Solution | Level
 [401 二进制手表](https://leetcode-cn.com/problems/binary-watch/description/)|[golang](./Algorithm/401.二进制手表.go)|Easy
 [404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|[golang](./Algorithm/404.左叶子之和.go)|Easy
 [405 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|[golang](./Algorithm/405.数字转换为十六进制数.go)|Easy
+[409 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/description/)|[golang](./Algorithm/409.最长回文串.go)|Easy
 [412 fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|[golang](./Algorithm/412.fizz-buzz.go)|Easy
+[414 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/description/)|[golang](./Algorithm/414.第三大的数.go)|Easy
+[415 字符串相加](https://leetcode-cn.com/problems/add-strings/description/)|[golang](./Algorithm/415.字符串相加.go)|Easy
 [416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/description/)|[golang](./Algorithm/416.分割等和子集.go)|Medium
 [421 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)|[golang](./Algorithm/421.数组中两个数的最大异或值.go)|Medium
 [432 全-o-1-的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/description/)|[golang](./Algorithm/432.全-o-1-的数据结构.go)|Hard
