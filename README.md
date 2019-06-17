@@ -289,6 +289,8 @@ Problem | Solution | Level
 [416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/description/)|[golang](./Algorithm/416.分割等和子集.go)|Medium
 [417 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/description/)|[golang](./Algorithm/417.太平洋大西洋水流问题.go)|Medium
 [421 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)|[golang](./Algorithm/421.数组中两个数的最大异或值.go)|Medium
+[427 建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/description/)|[python](./Algorithm/427.建立四叉树.py)|Easy
+[429 n叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/)|[python](./Algorithm/429.n叉树的层序遍历.py)|Easy
 [432 全-o-1-的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/description/)|[golang](./Algorithm/432.全-o-1-的数据结构.go)|Hard
 [435 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/description/)|[golang](./Algorithm/435.无重叠区间.go)|Medium
 [441 排列硬币](https://leetcode-cn.com/problems/arranging-coins/description/)|[golang](./Algorithm/441.排列硬币.go)|Easy
@@ -344,6 +346,7 @@ Problem | Solution | Level
 [714 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[golang](./Algorithm/714.买卖股票的最佳时机含手续费.go)|Medium
 [718 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/description/)|[golang](./Algorithm/718.最长重复子数组.go)|Medium
 [720 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/description/)|[golang](./Algorithm/720.词典中最长的单词.go)|Easy
+[722 删除注释](https://leetcode-cn.com/problems/remove-comments/description/)|[golang](./Algorithm/722.删除注释.go)|Medium
 [739 每日温度](https://leetcode-cn.com/problems/daily-temperatures/description/)|[golang](./Algorithm/739.每日温度.go)|Medium
 [740 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/description/)|[golang](./Algorithm/740.删除与获得点数.go)|Medium
 [743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/description/)|[golang](./Algorithm/743.网络延迟时间.go)|Medium
