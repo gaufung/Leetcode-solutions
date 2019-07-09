@@ -310,9 +310,11 @@ Problem | Solution | Level
 [474 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/description/)|[golang](./Algorithm/474.一和零.go)|Medium
 [476 数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|[golang](./Algorithm/476.数字的补数.go)|Easy
 [477 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/description/)|[golang](./Algorithm/477.汉明距离总和.go)|Medium
+[485 最大连续-1-的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/)|[golang](./Algorithm/485.最大连续-1-的个数.go)|Easy
 [491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/description/)|[golang](./Algorithm/491.递增子序列.go)|Medium
 [494 目标和](https://leetcode-cn.com/problems/target-sum/description/)|[golang](./Algorithm/494.目标和.go)|Medium
 [498 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/description/)|[golang](./Algorithm/498.对角线遍历.go)|Medium
+[500 键盘行](https://leetcode-cn.com/problems/keyboard-row/description/)|[golang](./Algorithm/500.键盘行.go)|Easy
 [513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/)|[golang](./Algorithm/513.找树左下角的值.go)|Medium
 [515 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/description/)|[golang](./Algorithm/515.在每个树行中找最大值.go)|Medium
 [518 零钱兑换-ii](https://leetcode-cn.com/problems/coin-change-2/description/)|[golang](./Algorithm/518.零钱兑换-ii.go)|Medium
