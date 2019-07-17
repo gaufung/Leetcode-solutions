@@ -359,3 +359,4 @@ Problem | Solution | Level
 [740 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/description/)|[golang](./Algorithm/740.删除与获得点数.go)|Medium
 [743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/description/)|[golang](./Algorithm/743.网络延迟时间.go)|Medium
 [746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|[golang](./Algorithm/746.使用最小花费爬楼梯.go)|Easy
+[832 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|[golang](./Algorithm/832.翻转图像.go)|Easy
