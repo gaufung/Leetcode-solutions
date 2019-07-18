@@ -6,11 +6,11 @@
  * https://leetcode-cn.com/problems/increasing-subsequences/description/
  *
  * algorithms
- * Medium (42.09%)
- * Likes:    37
+ * Medium (42.69%)
+ * Likes:    43
  * Dislikes: 0
- * Total Accepted:    1.3K
- * Total Submissions: 3K
+ * Total Accepted:    1.5K
+ * Total Submissions: 3.6K
  * Testcase Example:  '[4,6,7,7]'
  *
  * 给定一个整型数组, 你的任务是找到所有该数组的递增子序列，递增子序列的长度至少是2。
@@ -32,41 +32,42 @@
  *
  */
 func findSubsequences(nums []int) [][]int {
-	result := make([][]int, 0)
-	for i := 0; i < len(nums); i++ {
-		r := greaterSequence(nums[i], i+1, nums)
-		for _, rr := range r {
-			if len(rr) > 0 {
-				result = append(result, append([]int{nums[i]}, rr...))
-			}
-
-		}
-	}
-	return result
+	item := make([]int, 0)
+	idx := make([]int, 0)
+	res := make([][]int, 0)
+	dfs(nums, 0, idx, item, &res)
+	return res
 }
 
-func greaterSequence(base int, start int, nums []int) [][]int {
-	if start >= len(nums) {
-		return [][]int{
-			[]int{},
+func dfs(nums []int, pos int, idx []int, item []int, res *[][]int) {
+	if len(item) > 1 {
+		*res = append(*res, item)
+	}
+	for i := pos; i < len(nums); i++ {
+
+		if len(idx) == 0 {
+			idx1 := append(idx, i)
+			item1 := append(item, nums[i])
+			dfs(nums, i+1, idx1, item1, res)
+		} else {
+			lastIdx := idx[len(idx)-1]
+			found := false
+			for j := lastIdx + 1; j < i; j++ {
+				if nums[i] == nums[j] {
+					found = true
+					break
+				}
+			}
+			if found {
+				continue
+			}
+			last := nums[lastIdx]
+			if nums[i] >= last {
+				idx2 := append(idx, i)
+				item2 := append(item, nums[i])
+				dfs(nums, i+1, idx2, item2, res)
+			}
 		}
 	}
-	result := make([][]int, 0)
-	for i := start; i < len(nums); i++ {
-		if nums[i] >= base {
-			val1 := []int{nums[i]}
-			result1 := greaterSequence(nums[i], i+1, nums)
-			for _, r1 := range result1 {
-				result = append(result, append(val1, r1...))
-			}
-			val2 := []int{}
-			result2 := greaterSequence(base, i+2, nums)
-			for _, r2 := range result2 {
-				result = append(result, append(val2, r2...))
-			}
-			break
-		}
-	}
-	return result
 }
 
