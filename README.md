@@ -315,6 +315,8 @@ Problem | Solution | Level
 [494 目标和](https://leetcode-cn.com/problems/target-sum/description/)|[golang](./Algorithm/494.目标和.go)|Medium
 [498 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/description/)|[golang](./Algorithm/498.对角线遍历.go)|Medium
 [500 键盘行](https://leetcode-cn.com/problems/keyboard-row/description/)|[golang](./Algorithm/500.键盘行.go)|Easy
+[507 完美数](https://leetcode-cn.com/problems/perfect-number/description/)|[golang](./Algorithm/507.完美数.go)|Easy
+[509 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/description/)|[golang](./Algorithm/509.斐波那契数.go)|Easy
 [513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/)|[golang](./Algorithm/513.找树左下角的值.go)|Medium
 [515 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/description/)|[golang](./Algorithm/515.在每个树行中找最大值.go)|Medium
 [518 零钱兑换-ii](https://leetcode-cn.com/problems/coin-change-2/description/)|[golang](./Algorithm/518.零钱兑换-ii.go)|Medium
