@@ -39,35 +39,77 @@
  * }
  */
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
-	val1 := convert(l1)
-	val2 := convert(l2)
-	return convertBack(val1 + val2)
+	h1, _ := reverse(l1)
+	h2, _ := reverse(l2)
+	h := add(h1, h2)
+	res, _ := reverse(h)
+	return res
 }
 
-func convert(node *ListNode) int {
-	result := 0
-	for node != nil {
-		result = result*10 + node.Val
-		node = node.Next
+func reverse(node *ListNode) (*ListNode, *ListNode) {
+	if node.Next == nil {
+		return node, node
 	}
-	return result
+	n1, n2 := reverse(node.Next)
+	node.Next = nil
+	n2.Next = node
+	return n1, node
 }
 
-func convertBack(val int) *ListNode {
-	first := new(ListNode)
-	if val == 0 {
-		node := &ListNode{Val: 0}
-		first.Next = node
-	} else {
-		for val > 0 {
-			digit := val % 10
-			node := &ListNode{Val: digit}
-			node.Next = first.Next
-			first.Next = node
-			val /= 10
+func add(l1, l2 *ListNode) *ListNode {
+	if l1 == nil {
+		return l2
+	}
+	if l2 == nil {
+		return l1
+	}
+	sum := l1.Val + l2.Val
+	val := sum % 10
+	carrier := sum / 10
+	head := &ListNode{
+		Val: val,
+	}
+	l1 = l1.Next
+	l2 = l2.Next
+	cur := head
+	for l1 != nil && l2 != nil {
+		sum = l1.Val + l2.Val + carrier
+		val = sum % 10
+		carrier = sum / 10
+		cur.Next = &ListNode{
+			Val: val,
+		}
+		cur = cur.Next
+		l1 = l1.Next
+		l2 = l2.Next
+	}
+	for l1 != nil {
+		sum = l1.Val + carrier
+		val = sum % 10
+		carrier = sum / 10
+		cur.Next = &ListNode{
+			Val: val,
+		}
+		cur = cur.Next
+		l1 = l1.Next
+	}
+	for l2 != nil {
+		sum = l2.Val + carrier
+		val = sum % 10
+		carrier = sum / 10
+		cur.Next = &ListNode{
+			Val: val,
+		}
+		cur = cur.Next
+		l2 = l2.Next
+	}
+	if carrier != 0 {
+		cur.Next = &ListNode{
+			Val: carrier,
 		}
 	}
-
-	return first.Next
+	return head
 }
+
+
 
