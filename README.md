@@ -190,6 +190,7 @@ Problem | Solution | Level
 [221 最大正方形](https://leetcode-cn.com/problems/maximal-square/description/)|[golang](./Algorithm/221.最大正方形.go)|Medium
 [222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/description/)|[golang](./Algorithm/222.完全二叉树的节点个数.go)|Medium
 [223 矩形面积](https://leetcode-cn.com/problems/rectangle-area/description/)|[golang](./Algorithm/223.矩形面积.go)|Medium
+[224 基本计算器](https://leetcode-cn.com/problems/basic-calculator/description/)|[golang](./Algorithm/224.基本计算器.go)|Hard
 [225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/)|[golang](./Algorithm/225.用队列实现栈.go)|Easy
 [226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)|[golang](./Algorithm/226.翻转二叉树.go)|Easy
 [227 基本计算器-ii](https://leetcode-cn.com/problems/basic-calculator-ii/description/)|[golang](./Algorithm/227.基本计算器-ii.go)|Medium
