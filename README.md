@@ -264,6 +264,7 @@ Problem | Solution | Level
 [377 组合总和-ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/description/)|[golang](./Algorithm/377.组合总和-ⅳ.go)|Medium
 [378 有序矩阵中第k小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[golang](./Algorithm/378.有序矩阵中第k小的元素.go)|Medium
 [380 常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/description/)|[golang](./Algorithm/380.常数时间插入、删除和获取随机元素.go)|Medium
+[381 o-1-时间插入、删除和获取随机元素-允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/)|[golang](./Algorithm/381.o-1-时间插入、删除和获取随机元素-允许重复.go)|Hard
 [382 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/description/)|[golang](./Algorithm/382.链表随机节点.go)|Medium
 [383 赎金信](https://leetcode-cn.com/problems/ransom-note/description/)|[golang](./Algorithm/383.赎金信.go)|Easy
 [384 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/description/)|[golang](./Algorithm/384.打乱数组.go)|Medium
