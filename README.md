@@ -157,13 +157,17 @@ Problem | Solution | Level
 [173 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/description/)|[golang](./Algorithm/173.二叉搜索树迭代器.go)|Medium
 [175 组合两个表](https://leetcode-cn.com/problems/combine-two-tables/description/)|[mysql](./Algorithm/175.组合两个表.sql)|Easy
 [176 第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/description/)|[mysql](./Algorithm/176.第二高的薪水.sql)|Easy
+[177 第n高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/description/)|[mysql](./Algorithm/177.第n高的薪水.sql)|Medium
+[178 分数排名](https://leetcode-cn.com/problems/rank-scores/description/)|[mysql](./Algorithm/178.分数排名.sql)|Medium
 [179 最大数](https://leetcode-cn.com/problems/largest-number/description/)|[golang](./Algorithm/179.最大数.go)|Medium
 [181 超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/description/)|[mysql](./Algorithm/181.超过经理收入的员工.sql)|Easy
 [182 查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/description/)|[mysql](./Algorithm/182.查找重复的电子邮箱.sql)|Easy
 [183 从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/description/)|[mysql](./Algorithm/183.从不订购的客户.sql)|Easy
+[184 部门工资最高的员工](https://leetcode-cn.com/problems/department-highest-salary/description/)|[mysql](./Algorithm/184.部门工资最高的员工.sql)|Medium
 [189 旋转数组](https://leetcode-cn.com/problems/rotate-array/description/)|[golang](./Algorithm/189.旋转数组.go)|Easy
 [190 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/description/)|[golang](./Algorithm/190.颠倒二进制位.go)|Easy
 [191 位-1-的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[golang](./Algorithm/191.位-1-的个数.go)|Easy
+[192 统计词频](https://leetcode-cn.com/problems/word-frequency/description/)|[bash](./Algorithm/192.统计词频.sh)|Medium
 [193 有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/description/)|[bash](./Algorithm/193.有效电话号码.sh)|Easy
 [195 第十行](https://leetcode-cn.com/problems/tenth-line/description/)|[bash](./Algorithm/195.第十行.sh)|Easy
 [197 上升的温度](https://leetcode-cn.com/problems/rising-temperature/description/)|[mysql](./Algorithm/197.上升的温度.sql)|Easy
@@ -269,6 +273,7 @@ Problem | Solution | Level
 [383 赎金信](https://leetcode-cn.com/problems/ransom-note/description/)|[golang](./Algorithm/383.赎金信.go)|Easy
 [384 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/description/)|[golang](./Algorithm/384.打乱数组.go)|Medium
 [385 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/description/)|[golang](./Algorithm/385.迷你语法分析器.go)|Medium
+[385 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/description/)|[csharp](./Algorithm/385.迷你语法分析器.cs)|Medium
 [386 字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/description/)|[golang](./Algorithm/386.字典序排数.go)|Medium
 [387 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|[golang](./Algorithm/387.字符串中的第一个唯一字符.go)|Easy
 [388 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/description/)|[golang](./Algorithm/388.文件的最长绝对路径.go)|Medium
@@ -345,6 +350,7 @@ Problem | Solution | Level
 [595 大的国家](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./Algorithm/595.大的国家.sql)|Easy
 [596 超过-5-名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)|[mysql](./Algorithm/596.超过-5-名学生的课.sql)|Easy
 [620 有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/)|[mysql](./Algorithm/620.有趣的电影.sql)|Easy
+[623 在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/description/)|[csharp](./Algorithm/623.在二叉树中增加一行.cs)|Medium
 [646 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/description/)|[golang](./Algorithm/646.最长数对链.go)|Medium
 [647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/description/)|[golang](./Algorithm/647.回文子串.go)|Medium
 [648 单词替换](https://leetcode-cn.com/problems/replace-words/description/)|[golang](./Algorithm/648.单词替换.go)|Medium
