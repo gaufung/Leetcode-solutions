@@ -258,6 +258,7 @@ Problem | Solution | Level
 [354 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/description/)|[golang](./Algorithm/354.俄罗斯套娃信封问题.go)|Hard
 [355 设计推特](https://leetcode-cn.com/problems/design-twitter/description/)|[golang](./Algorithm/355.设计推特.go)|Medium
 [357 计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/description/)|[golang](./Algorithm/357.计算各个位数不同的数字个数.go)|Medium
+[365 水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/description/)|[csharp](./Algorithm/365.水壶问题.cs)|Medium
 [367 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/description/)|[golang](./Algorithm/367.有效的完全平方数.go)|Easy
 [368 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[golang](./Algorithm/368.最大整除子集.go)|Medium
 [371 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/)|[golang](./Algorithm/371.两整数之和.go)|Easy
@@ -324,6 +325,7 @@ Problem | Solution | Level
 [494 目标和](https://leetcode-cn.com/problems/target-sum/description/)|[golang](./Algorithm/494.目标和.go)|Medium
 [498 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/description/)|[golang](./Algorithm/498.对角线遍历.go)|Medium
 [500 键盘行](https://leetcode-cn.com/problems/keyboard-row/description/)|[golang](./Algorithm/500.键盘行.go)|Easy
+[504 七进制数](https://leetcode-cn.com/problems/base-7/description/)|[csharp](./Algorithm/504.七进制数.cs)|Easy
 [507 完美数](https://leetcode-cn.com/problems/perfect-number/description/)|[golang](./Algorithm/507.完美数.go)|Easy
 [508 出现次数最多的子树元素和](https://leetcode-cn.com/problems/most-frequent-subtree-sum/description/)|[csharp](./Algorithm/508.出现次数最多的子树元素和.cs)|Medium
 [509 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/description/)|[golang](./Algorithm/509.斐波那契数.go)|Easy
