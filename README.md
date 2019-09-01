@@ -290,6 +290,7 @@ Problem | Solution | Level
 [401 二进制手表](https://leetcode-cn.com/problems/binary-watch/description/)|[golang](./Algorithm/401.二进制手表.go)|Easy
 [404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|[golang](./Algorithm/404.左叶子之和.go)|Easy
 [405 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|[golang](./Algorithm/405.数字转换为十六进制数.go)|Easy
+[406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/description/)|[csharp](./Algorithm/406.根据身高重建队列.cs)|Medium
 [409 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/description/)|[golang](./Algorithm/409.最长回文串.go)|Easy
 [412 fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|[golang](./Algorithm/412.fizz-buzz.go)|Easy
 [414 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/description/)|[golang](./Algorithm/414.第三大的数.go)|Easy
