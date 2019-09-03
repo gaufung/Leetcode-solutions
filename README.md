@@ -352,6 +352,8 @@ Problem | Solution | Level
 [590 n叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|[python](./Algorithm/590.n叉树的后序遍历.py)|Easy
 [595 大的国家](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./Algorithm/595.大的国家.sql)|Easy
 [596 超过-5-名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)|[mysql](./Algorithm/596.超过-5-名学生的课.sql)|Easy
+[606 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/)|[csharp](./Algorithm/606.根据二叉树创建字符串.cs)|Easy
+[617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[csharp](./Algorithm/617.合并二叉树.cs)|Easy
 [620 有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/)|[mysql](./Algorithm/620.有趣的电影.sql)|Easy
 [623 在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/description/)|[csharp](./Algorithm/623.在二叉树中增加一行.cs)|Medium
 [646 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/description/)|[golang](./Algorithm/646.最长数对链.go)|Medium
