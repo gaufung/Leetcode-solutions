@@ -323,6 +323,7 @@ Problem | Solution | Level
 [478 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/description/)|[golang](./Algorithm/478.在圆内随机生成点.go)|Medium
 [485 最大连续-1-的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/)|[golang](./Algorithm/485.最大连续-1-的个数.go)|Easy
 [491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/description/)|[golang](./Algorithm/491.递增子序列.go)|Medium
+[492 构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/description/)|[csharp](./Algorithm/492.构造矩形.cs)|Easy
 [494 目标和](https://leetcode-cn.com/problems/target-sum/description/)|[golang](./Algorithm/494.目标和.go)|Medium
 [498 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/description/)|[golang](./Algorithm/498.对角线遍历.go)|Medium
 [500 键盘行](https://leetcode-cn.com/problems/keyboard-row/description/)|[golang](./Algorithm/500.键盘行.go)|Easy
