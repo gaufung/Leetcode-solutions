@@ -321,6 +321,7 @@ Problem | Solution | Level
 [476 数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|[golang](./Algorithm/476.数字的补数.go)|Easy
 [477 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/description/)|[golang](./Algorithm/477.汉明距离总和.go)|Medium
 [478 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/description/)|[golang](./Algorithm/478.在圆内随机生成点.go)|Medium
+[481 神奇字符串](https://leetcode-cn.com/problems/magical-string/description/)|[csharp](./Algorithm/481.神奇字符串.cs)|Medium
 [485 最大连续-1-的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/)|[golang](./Algorithm/485.最大连续-1-的个数.go)|Easy
 [491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/description/)|[golang](./Algorithm/491.递增子序列.go)|Medium
 [492 构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/description/)|[csharp](./Algorithm/492.构造矩形.cs)|Easy
