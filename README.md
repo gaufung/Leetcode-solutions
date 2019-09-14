@@ -379,6 +379,7 @@ Problem | Solution | Level
 [700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/description/)|[csharp](./Algorithm/700.二叉搜索树中的搜索.cs)|Easy
 [701 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/description/)|[golang](./Algorithm/701.二叉搜索树中的插入操作.go)|Medium
 [703 数据流中的第k大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/description/)|[csharp](./Algorithm/703.数据流中的第k大元素.cs)|Easy
+[704 二分查找](https://leetcode-cn.com/problems/binary-search/description/)|[csharp](./Algorithm/704.二分查找.cs)|Easy
 [712 两个字符串的最小ascii删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)|[golang](./Algorithm/712.两个字符串的最小ascii删除和.go)|Medium
 [713 乘积小于k的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/description/)|[golang](./Algorithm/713.乘积小于k的子数组.go)|Medium
 [714 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[golang](./Algorithm/714.买卖股票的最佳时机含手续费.go)|Medium

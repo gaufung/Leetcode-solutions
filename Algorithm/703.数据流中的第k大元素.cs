@@ -41,12 +41,12 @@ public class KthLargest {
 
     private int K;
 
-    private Maxheap kHeap;
+    private MinHeap kHeap;
 
     public KthLargest(int k, int[] nums) 
     {
         K = k;
-        kHeap = new Maxheap(k);
+        kHeap = new MinHeap(k);
         foreach(int num in nums)
         {
             Add(num);
@@ -61,7 +61,7 @@ public class KthLargest {
         }
         else
         {
-            if(this.kHeap.Peek() <= val)
+            if(this.kHeap.Peek() >= val)
             {
                 return this.kHeap.Peek();
             }
@@ -75,12 +75,13 @@ public class KthLargest {
     }
 }
 
-public class Maxheap
-{
+
+        public class MinHeap
+        {
             private readonly int[] _elements;
             private int _size;
 
-            public Maxheap(int size)
+            public MinHeap(int size)
             {
                 _elements = new int[size];
             }
@@ -108,8 +109,6 @@ public class Maxheap
             {
                 return _size == 0;
             }
-
-            public int Size => this._size;
 
             public int Peek()
             {
@@ -149,33 +148,37 @@ public class Maxheap
                 int index = 0;
                 while (HasLeftChild(index))
                 {
-                    var biggerIndex = GetLeftChildIndex(index);
-                    if (HasRightChild(index) && GetRightChild(index) > GetLeftChild(index))
+                    var smallerIndex = GetLeftChildIndex(index);
+                    if (HasRightChild(index) && GetRightChild(index) < GetLeftChild(index))
                     {
-                        biggerIndex = GetRightChildIndex(index);
+                        smallerIndex = GetRightChildIndex(index);
                     }
 
-                    if (_elements[biggerIndex] < _elements[index])
+                    if (_elements[smallerIndex] >= _elements[index])
                     {
                         break;
                     }
 
-                    Swap(biggerIndex, index);
-                    index = biggerIndex;
+                    Swap(smallerIndex, index);
+                    index = smallerIndex;
                 }
             }
 
             private void ReCalculateUp()
             {
                 var index = _size - 1;
-                while (!IsRoot(index) && _elements[index] > GetParent(index))
+                while (!IsRoot(index) && _elements[index] < GetParent(index))
                 {
                     var parentIndex = GetParentIndex(index);
                     Swap(parentIndex, index);
                     index = parentIndex;
                 }
             }
-}
+
+            public int Size => this._size;
+        }
+
+
 
 
 /**
