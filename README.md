@@ -387,6 +387,7 @@ Problem | Solution | Level
 [720 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/description/)|[golang](./Algorithm/720.词典中最长的单词.go)|Easy
 [722 删除注释](https://leetcode-cn.com/problems/remove-comments/description/)|[golang](./Algorithm/722.删除注释.go)|Medium
 [724 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/description/)|[golang](./Algorithm/724.寻找数组的中心索引.go)|Easy
+[725 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/)|[csharp](./Algorithm/725.分隔链表.cs)|Medium
 [739 每日温度](https://leetcode-cn.com/problems/daily-temperatures/description/)|[golang](./Algorithm/739.每日温度.go)|Medium
 [740 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/description/)|[golang](./Algorithm/740.删除与获得点数.go)|Medium
 [743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/description/)|[golang](./Algorithm/743.网络延迟时间.go)|Medium
