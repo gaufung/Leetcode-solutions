@@ -41,25 +41,12 @@
  */
 public class Solution {
     public bool IsRectangleOverlap(int[] rec1, int[] rec2) {
-        int[] leftBottom = new int[] {rec1[0], rec1[1]};
-        int[] leftTop = new int[] {rec1[0], rec1[3]};
-        int[] rightBottom = new int[] { rec1[2], rec1[1]};
-        int[] rightTop = new int[] { rec1[2], rec1[3]};
-        var result = IsPointInRectangel(leftBottom, rec2) || IsPointInRectangel(leftTop, rec2) || IsPointInRectangel(rightBottom, rec2) || IsPointInRectangel(rightTop, rec2);
-        if(result)
-        {
-            return true;
-        }
-        leftBottom = new int[] {rec2[0], rec2[1]};
-        leftTop = new int[] {rec2[0], rec2[3]};
-        rightBottom = new int[] { rec2[2], rec2[1]};
-        rightTop = new int[] { rec2[2], rec2[3]};
-        return IsPointInRectangel(leftBottom, rec1) || IsPointInRectangel(leftTop, rec1) || IsPointInRectangel(rightBottom, rec1) || IsPointInRectangel(rightTop, rec1);
+       return !this.IsNotRectangleOverlap(rec1, rec2);
     }
 
-    public bool IsPointInRectangel(int[] point, int[] rec)
+    private bool IsNotRectangleOverlap(int[] rec1, int[] rec2) 
     {
-        return (point[0] - rec[0]) * (point[0] - rec[2]) < 0 && (point[1] - rec[1]) * (point[1] - rec[3]) < 0;
-    }
+        return rec1[0] >= rec2[2] || rec1[2] <= rec2[0] || rec1[1] >= rec2[3] || rec1[3] <= rec2[1];
+    } 
 }
 

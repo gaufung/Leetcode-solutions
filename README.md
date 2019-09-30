@@ -394,6 +394,7 @@ Problem | Solution | Level
 [746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|[golang](./Algorithm/746.使用最小花费爬楼梯.go)|Easy
 [766 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|[golang](./Algorithm/766.托普利茨矩阵.go)|Easy
 [821 字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|[csharp](./Algorithm/821.字符的最短距离.cs)|Easy
+[824 山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/)|[csharp](./Algorithm/824.山羊拉丁文.cs)|Easy
 [832 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|[golang](./Algorithm/832.翻转图像.go)|Easy
 [836 矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/description/)|[csharp](./Algorithm/836.矩形重叠.cs)|Easy
 [965 单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/description/)|[golang](./Algorithm/965.单值二叉树.go)|Easy
