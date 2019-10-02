@@ -300,6 +300,7 @@ Problem | Solution | Level
 [421 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)|[golang](./Algorithm/421.数组中两个数的最大异或值.go)|Medium
 [427 建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/description/)|[python](./Algorithm/427.建立四叉树.py)|Easy
 [429 n叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/)|[python](./Algorithm/429.n叉树的层序遍历.py)|Easy
+[430 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/description/)|[csharp](./Algorithm/430.扁平化多级双向链表.cs)|Medium
 [432 全-o-1-的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/description/)|[golang](./Algorithm/432.全-o-1-的数据结构.go)|Hard
 [434 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/)|[golang](./Algorithm/434.字符串中的单词数.go)|Easy
 [435 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/description/)|[golang](./Algorithm/435.无重叠区间.go)|Medium
