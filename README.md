@@ -338,6 +338,7 @@ Problem | Solution | Level
 [518 零钱兑换-ii](https://leetcode-cn.com/problems/coin-change-2/description/)|[golang](./Algorithm/518.零钱兑换-ii.go)|Medium
 [523 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/description/)|[golang](./Algorithm/523.连续的子数组和.go)|Medium
 [526 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/description/)|[golang](./Algorithm/526.优美的排列.go)|Medium
+[529 扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/)|[csharp](./Algorithm/529.扫雷游戏.cs)|Medium
 [530 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/)|[golang](./Algorithm/530.二叉搜索树的最小绝对差.go)|Easy
 [537 复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/description/)|[golang](./Algorithm/537.复数乘法.go)|Medium
 [538 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[golang](./Algorithm/538.把二叉搜索树转换为累加树.go)|Easy
