@@ -273,8 +273,8 @@ Problem | Solution | Level
 [382 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/description/)|[golang](./Algorithm/382.链表随机节点.go)|Medium
 [383 赎金信](https://leetcode-cn.com/problems/ransom-note/description/)|[golang](./Algorithm/383.赎金信.go)|Easy
 [384 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/description/)|[golang](./Algorithm/384.打乱数组.go)|Medium
-[385 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/description/)|[golang](./Algorithm/385.迷你语法分析器.go)|Medium
 [385 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/description/)|[csharp](./Algorithm/385.迷你语法分析器.cs)|Medium
+[385 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/description/)|[golang](./Algorithm/385.迷你语法分析器.go)|Medium
 [386 字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/description/)|[golang](./Algorithm/386.字典序排数.go)|Medium
 [387 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|[golang](./Algorithm/387.字符串中的第一个唯一字符.go)|Easy
 [388 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/description/)|[golang](./Algorithm/388.文件的最长绝对路径.go)|Medium
@@ -364,6 +364,7 @@ Problem | Solution | Level
 [646 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/description/)|[golang](./Algorithm/646.最长数对链.go)|Medium
 [647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/description/)|[golang](./Algorithm/647.回文子串.go)|Medium
 [648 单词替换](https://leetcode-cn.com/problems/replace-words/description/)|[golang](./Algorithm/648.单词替换.go)|Medium
+[650 只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/description/)|[csharp](./Algorithm/650.只有两个键的键盘.cs)|Medium
 [654 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/description/)|[golang](./Algorithm/654.最大二叉树.go)|Medium
 [655 输出二叉树](https://leetcode-cn.com/problems/print-binary-tree/description/)|[golang](./Algorithm/655.输出二叉树.go)|Medium
 [662 二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/description/)|[golang](./Algorithm/662.二叉树最大宽度.go)|Medium
@@ -371,6 +372,7 @@ Problem | Solution | Level
 [671 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)|[golang](./Algorithm/671.二叉树中第二小的节点.go)|Easy
 [673 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/description/)|[golang](./Algorithm/673.最长递增子序列的个数.go)|Medium
 [674 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)|[golang](./Algorithm/674.最长连续递增序列.go)|Easy
+[676 实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary/description/)|[csharp](./Algorithm/676.实现一个魔法字典.cs)|Medium
 [676 实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary/description/)|[golang](./Algorithm/676.实现一个魔法字典.go)|Medium
 [677 键值映射](https://leetcode-cn.com/problems/map-sum-pairs/description/)|[golang](./Algorithm/677.键值映射.go)|Medium
 [688 马-在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/description/)|[golang](./Algorithm/688.马-在棋盘上的概率.go)|Medium

@@ -32,7 +32,7 @@ def generate():
         segments = file_name.split(".")
         index = segments[0]
         title = segments[1]
-        with open(os.path.join(_relative_path, file_name), "r") as f:
+        with open(os.path.join(_relative_path, file_name), "r", encoding='utf-8') as f:
             content = f.read()
             result = re.search(_HyperLink_Pattern, content)
             hyperlink = content[result.start():result.end()]
@@ -44,7 +44,7 @@ def generate():
                         (index, title, hyperlink,  language, file_name, level))
     sorted_rows = sorted(rows, key=lambda x: int(x.split(" ")[0][1:]))
     readme_content = _README_TEMPLE % ("\n".join(sorted_rows))
-    with open("./README.md", 'w') as f:
+    with open("./README.md", 'w', encoding='utf-8') as f:
         f.write(readme_content)
 
 
