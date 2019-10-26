@@ -347,7 +347,9 @@ Problem | Solution | Level
 [542 01-矩阵](https://leetcode-cn.com/problems/01-matrix/description/)|[golang](./Algorithm/542.01-矩阵.go)|Medium
 [543 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|[golang](./Algorithm/543.二叉树的直径.go)|Easy
 [547 朋友圈](https://leetcode-cn.com/problems/friend-circles/description/)|[golang](./Algorithm/547.朋友圈.go)|Medium
+[553 最优除法](https://leetcode-cn.com/problems/optimal-division/description/)|[csharp](./Algorithm/553.最优除法.cs)|Medium
 [559 n叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/)|[python](./Algorithm/559.n叉树的最大深度.py)|Easy
+[560 和为k的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/description/)|[csharp](./Algorithm/560.和为k的子数组.cs)|Medium
 [563 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/description/)|[golang](./Algorithm/563.二叉树的坡度.go)|Easy
 [567 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/description/)|[golang](./Algorithm/567.字符串的排列.go)|Medium
 [576 出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/description/)|[golang](./Algorithm/576.出界的路径数.go)|Medium
