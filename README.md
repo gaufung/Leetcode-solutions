@@ -179,6 +179,7 @@ Problem | Solution | Level
 [203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/description/)|[golang](./Algorithm/203.移除链表元素.go)|Easy
 [204 计数质数](https://leetcode-cn.com/problems/count-primes/description/)|[golang](./Algorithm/204.计数质数.go)|Easy
 [205 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/description/)|[golang](./Algorithm/205.同构字符串.go)|Easy
+[206 reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/description/)|[csharp](./Algorithm/206.reverse-linked-list.cs)|Easy
 [206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/)|[golang](./Algorithm/206.反转链表.go)|Easy
 [207 课程表](https://leetcode-cn.com/problems/course-schedule/description/)|[golang](./Algorithm/207.课程表.go)|Medium
 [208 实现-trie-前缀树](https://leetcode-cn.com/problems/implement-trie-prefix-tree/description/)|[golang](./Algorithm/208.实现-trie-前缀树.go)|Medium
@@ -189,6 +190,7 @@ Problem | Solution | Level
 [213 打家劫舍-ii](https://leetcode-cn.com/problems/house-robber-ii/description/)|[golang](./Algorithm/213.打家劫舍-ii.go)|Medium
 [215 数组中的第k个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/)|[golang](./Algorithm/215.数组中的第k个最大元素.go)|Medium
 [216 组合总和-iii](https://leetcode-cn.com/problems/combination-sum-iii/description/)|[golang](./Algorithm/216.组合总和-iii.go)|Medium
+[217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[csharp](./Algorithm/217.contains-duplicate.cs)|Easy
 [217 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|[golang](./Algorithm/217.存在重复元素.go)|Easy
 [219 存在重复元素-ii](https://leetcode-cn.com/problems/contains-duplicate-ii/description/)|[golang](./Algorithm/219.存在重复元素-ii.go)|Easy
 [221 最大正方形](https://leetcode-cn.com/problems/maximal-square/description/)|[golang](./Algorithm/221.最大正方形.go)|Medium
