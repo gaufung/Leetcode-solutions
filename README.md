@@ -198,6 +198,7 @@ Problem | Solution | Level
 [223 矩形面积](https://leetcode-cn.com/problems/rectangle-area/description/)|[golang](./Algorithm/223.矩形面积.go)|Medium
 [224 基本计算器](https://leetcode-cn.com/problems/basic-calculator/description/)|[golang](./Algorithm/224.基本计算器.go)|Hard
 [225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/)|[golang](./Algorithm/225.用队列实现栈.go)|Easy
+[226 invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/description/)|[csharp](./Algorithm/226.invert-binary-tree.cs)|Easy
 [226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)|[golang](./Algorithm/226.翻转二叉树.go)|Easy
 [227 基本计算器-ii](https://leetcode-cn.com/problems/basic-calculator-ii/description/)|[golang](./Algorithm/227.基本计算器-ii.go)|Medium
 [228 汇总区间](https://leetcode-cn.com/problems/summary-ranges/description/)|[golang](./Algorithm/228.汇总区间.go)|Medium
@@ -338,6 +339,7 @@ Problem | Solution | Level
 [513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/)|[golang](./Algorithm/513.找树左下角的值.go)|Medium
 [515 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/description/)|[golang](./Algorithm/515.在每个树行中找最大值.go)|Medium
 [518 零钱兑换-ii](https://leetcode-cn.com/problems/coin-change-2/description/)|[golang](./Algorithm/518.零钱兑换-ii.go)|Medium
+[520 detect-capital](https://leetcode.com/problems/detect-capital/description/)|[csharp](./Algorithm/520.detect-capital.cs)|Easy
 [523 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/description/)|[golang](./Algorithm/523.连续的子数组和.go)|Medium
 [526 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/description/)|[golang](./Algorithm/526.优美的排列.go)|Medium
 [529 扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/)|[csharp](./Algorithm/529.扫雷游戏.cs)|Medium
