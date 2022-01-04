@@ -369,6 +369,7 @@ Problem | Solution | Level
 [617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[csharp](./Algorithm/617.合并二叉树.cs)|Easy
 [620 有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/)|[mysql](./Algorithm/620.有趣的电影.sql)|Easy
 [623 在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/description/)|[csharp](./Algorithm/623.在二叉树中增加一行.cs)|Medium
+[640 求解方程](https://leetcode-cn.com/problems/solve-the-equation/description/)|[csharp](./Algorithm/640.求解方程.cs)|Medium
 [641 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/description/)|[csharp](./Algorithm/641.设计循环双端队列.cs)|Medium
 [646 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/description/)|[golang](./Algorithm/646.最长数对链.go)|Medium
 [647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/description/)|[golang](./Algorithm/647.回文子串.go)|Medium
@@ -406,6 +407,7 @@ Problem | Solution | Level
 [743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/description/)|[golang](./Algorithm/743.网络延迟时间.go)|Medium
 [746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|[golang](./Algorithm/746.使用最小花费爬楼梯.go)|Easy
 [766 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|[golang](./Algorithm/766.托普利茨矩阵.go)|Easy
+[819 最常见的单词](https://leetcode-cn.com/problems/most-common-word/description/)|[csharp](./Algorithm/819.最常见的单词.cs)|Easy
 [821 字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|[csharp](./Algorithm/821.字符的最短距离.cs)|Easy
 [824 山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/)|[csharp](./Algorithm/824.山羊拉丁文.cs)|Easy
 [832 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|[golang](./Algorithm/832.翻转图像.go)|Easy
