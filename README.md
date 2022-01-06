@@ -266,6 +266,7 @@ Problem | Solution | Level
 [368 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[golang](./Algorithm/368.最大整除子集.go)|Medium
 [371 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/)|[golang](./Algorithm/371.两整数之和.go)|Easy
 [373 查找和最小的k对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/description/)|[golang](./Algorithm/373.查找和最小的k对数字.go)|Medium
+[374 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/description/)|[csharp](./Algorithm/374.猜数字大小.cs)|Easy
 [374 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/description/)|[python](./Algorithm/374.猜数字大小.py)|Easy
 [375 猜数字大小-ii](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/description/)|[golang](./Algorithm/375.猜数字大小-ii.go)|Medium
 [376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/description/)|[golang](./Algorithm/376.摆动序列.go)|Medium
@@ -355,6 +356,7 @@ Problem | Solution | Level
 [553 最优除法](https://leetcode-cn.com/problems/optimal-division/description/)|[csharp](./Algorithm/553.最优除法.cs)|Medium
 [559 n叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/)|[python](./Algorithm/559.n叉树的最大深度.py)|Easy
 [560 和为k的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/description/)|[csharp](./Algorithm/560.和为k的子数组.cs)|Medium
+[561 数组拆分-i](https://leetcode-cn.com/problems/array-partition-i/description/)|[csharp](./Algorithm/561.数组拆分-i.cs)|Easy
 [563 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/description/)|[golang](./Algorithm/563.二叉树的坡度.go)|Easy
 [566 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|[csharp](./Algorithm/566.重塑矩阵.cs)|Easy
 [567 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/description/)|[golang](./Algorithm/567.字符串的排列.go)|Medium
