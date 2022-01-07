@@ -86,14 +86,17 @@ public class Solution : GuessGame {
     public int GuessNumber(int n) {
         int a = 1;
         int b = n;
-        while(a <= b) {
-            int num = (a + b) / 2;
+        while(a < b) {
+            int num = a / 2 + b / 2;
+            if (a % 2 == 1 && b % 2 == 1) {
+                num += 1;    
+            }
             int result = guess(num);
             if (result == 0) {
                 return num;
             }
             if (result == 1){
-                a = num+1;
+                a = num + 1;
             }
             if (result == -1){
                 b = num;
