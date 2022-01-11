@@ -363,10 +363,12 @@ Problem | Solution | Level
 [566 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|[csharp](./Algorithm/566.重塑矩阵.cs)|Easy
 [567 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/description/)|[golang](./Algorithm/567.字符串的排列.go)|Medium
 [572 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/description/)|[csharp](./Algorithm/572.另一棵树的子树.cs)|Easy
+[575 分糖果](https://leetcode-cn.com/problems/distribute-candies/description/)|[csharp](./Algorithm/575.分糖果.cs)|Easy
 [576 出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/description/)|[golang](./Algorithm/576.出界的路径数.go)|Medium
 [583 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/description/)|[golang](./Algorithm/583.两个字符串的删除操作.go)|Medium
 [589 n叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|[python](./Algorithm/589.n叉树的前序遍历.py)|Easy
 [590 n叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|[python](./Algorithm/590.n叉树的后序遍历.py)|Easy
+[594 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/)|[csharp](./Algorithm/594.最长和谐子序列.cs)|Easy
 [595 大的国家](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./Algorithm/595.大的国家.sql)|Easy
 [596 超过-5-名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)|[mysql](./Algorithm/596.超过-5-名学生的课.sql)|Easy
 [606 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/)|[csharp](./Algorithm/606.根据二叉树创建字符串.cs)|Easy
