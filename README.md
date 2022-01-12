@@ -371,6 +371,7 @@ Problem | Solution | Level
 [594 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/)|[csharp](./Algorithm/594.最长和谐子序列.cs)|Easy
 [595 大的国家](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./Algorithm/595.大的国家.sql)|Easy
 [596 超过-5-名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)|[mysql](./Algorithm/596.超过-5-名学生的课.sql)|Easy
+[598 范围求和-ii](https://leetcode-cn.com/problems/range-addition-ii/description/)|[csharp](./Algorithm/598.范围求和-ii.cs)|Easy
 [606 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/)|[csharp](./Algorithm/606.根据二叉树创建字符串.cs)|Easy
 [617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[csharp](./Algorithm/617.合并二叉树.cs)|Easy
 [620 有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/)|[mysql](./Algorithm/620.有趣的电影.sql)|Easy
